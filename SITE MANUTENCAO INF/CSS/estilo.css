@@ -1,0 +1,41 @@
+
+body{
+    background-color: #1475C4;
+    color: black;
+    background-image: url();
+    font-size: medium
+    
+}
+
+h1{
+    text-align:center; background-color: blanchedalmond; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2{
+    background-color: blanchedalmond; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; text-align: center;
+
+}
+
+h3{
+  text-align: center; background-color: blanchedalmond; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; color: red;
+}
+
+p{
+  text-align: justify; background-color: blanchedalmond; color: black; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h5{
+  text-align: center; background-color: blanchedalmond; color: black; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li{
+  font-size: larger;
+  color: beige;
+  }
+  
+a{
+  color: beige;
+}
+
+
+
